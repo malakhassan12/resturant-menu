@@ -54,7 +54,7 @@ html{
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url("../imgs/blur_back.jpg");
+  background-image: url("../blur_back.jpg");
   filter: blur(10px); /* Apply the blur to the background */
   
 }
